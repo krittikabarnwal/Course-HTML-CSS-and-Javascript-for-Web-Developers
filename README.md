@@ -20,5 +20,5 @@ This repository contains all of the source code used in the course HTML, CSS and
 
 - [Module-2](https://krittikabarnwal.github.io/Course-HTML-CSS-and-Javascript-for-Web-Developers/module_2/)
 - [Module-3](https://krittikabarnwal.github.io/Course-HTML-CSS-and-Javascript-for-Web-Developers/module_3/)
-- [Module-4]((https://krittikabarnwal.github.io/Course-HTML-CSS-and-Javascript-for-Web-Developers/module_4/)
+- [Module-4](https://krittikabarnwal.github.io/Course-HTML-CSS-and-Javascript-for-Web-Developers/Module_4/)
 - [Module-5](https://krittikabarnwal.github.io/Course-HTML-CSS-and-Javascript-for-Web-Developers/module_5/)
