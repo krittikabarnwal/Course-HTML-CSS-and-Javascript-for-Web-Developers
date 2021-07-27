@@ -1,7 +1,7 @@
 # Course: HTML CSS and Javascript for Web Developers
 This repository contains all of the source code used in the course HTML, CSS and Javascript for Web Developers in Coursera by John Hopkins University.
 
-[Certificate](https://coursera.org/share/5963e8fb4e11688e60b5e67960e470cd)
+[Link to Certificate](https://coursera.org/share/5963e8fb4e11688e60b5e67960e470cd)
 
 ![Course Completion certificate](https://github.com/krittikabarnwal/Course-HTML-CSS-and-Javascript-for-Web-Developers/blob/master/Certificate.png)
 
